@@ -1,0 +1,32 @@
+D:\Сетевое программирование\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сетевое программирование\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfoInputs.cache
+D:\Сетевое программирование\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfo.cs
+D:\Сетевое программирование\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.csproj.CoreCompileInputs.cache
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfoInputs.cache
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfo.cs
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.csproj.CoreCompileInputs.cache
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.exe
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.deps.json
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.runtimeconfig.json
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.dll
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.pdb
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.dll
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\refint\TcpServer.dll
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.pdb
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.genruntimeconfig.cache
+D:\DownloadsClassWork\Sample_4 - TCP чат\TcpServer\TcpServer\obj\Debug\net9.0\ref\TcpServer.dll
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.exe
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.deps.json
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.runtimeconfig.json
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.dll
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\bin\Debug\net9.0\TcpServer.pdb
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfoInputs.cache
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfo.cs
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.dll
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\obj\Debug\net9.0\refint\TcpServer.dll
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.pdb
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\obj\Debug\net9.0\TcpServer.genruntimeconfig.cache
+C:\Users\СтудентВА\Desktop\TcpServer\TcpServer\obj\Debug\net9.0\ref\TcpServer.dll
